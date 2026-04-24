@@ -165,7 +165,7 @@ DL-Adversarial/
 - **Objective**: Misclassify attack traffic as normal
 - **Constraint**: Realistic per-feature attack budgets (ε = 0.0-0.3)
 - **Knowledge**: White-box (attacker has model access)
-- **CVSS Assessment**: See [threat_model.json](images/threat_model.png)
+- **CVSS Assessment**: See [threat_model.png](images/threat_model.png)
 
 ### Attack Methodology
 1. **FGSM** (Fast Gradient Sign Method)
