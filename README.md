@@ -41,13 +41,7 @@ This project implements a complete pipeline for threat modeling, adversarial att
 
 ## 📊 Results Summary
 
-### Performance Comparison
-![Accuracy Comparison](images/accuracy_comparison.png)
-![Robustness Comparison](images/robustness_comparison.png)
-
-### Threat Model Analysis
-![Feature Analysis](images/feature_analysis.png)
-![Trade-off Analysis](images/tradeoff_analysis.png)
+**Check images folder** 
 
 ### Key Finding
 > **Feature Subset Defense achieves 78% adversarial robustness on PGD attacks while maintaining 95.1% clean accuracy**, outperforming complex techniques through intelligent feature selection based on manipulability constraints.
